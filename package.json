@@ -8,8 +8,8 @@
     "build": "webpack --process --color --config build/webpack.pro.conf.js"
   },
   "bin": {
-    "za-cli-dev": "./bin/dev.js",
-    "za-cli-build": "./bin/build.js"
+    "za-react-dev": "./bin/dev.js",
+    "za-react-build": "./bin/build.js"
   },
   "author": "chenjianfang",
   "license": "MIT",
