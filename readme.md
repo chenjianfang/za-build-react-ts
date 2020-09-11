@@ -3,14 +3,14 @@
 
 ## Installation
 ```
-    yarn add @za-build/react-ts -D
+yarn add @za-build/react-ts -D
 ```
 
 ## Usage
 ```
-    // 开发组件
-    npx za-react-dev
+// 开发组件
+npx za-react-dev
 
-    // 打包生产组件
-    npx za-react-build
+// 打包生产组件
+npx za-react-build
 ```
